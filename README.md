@@ -1,23 +1,47 @@
-# ExoraExecutor
+# 💻 ExoraExecutor
 
-💻 A custom Roblox Lua executor written for educational purposes.
+A custom Roblox Lua executor interface for educational and learning purposes only.
 
-## Features
-- Fast execution
-- Supports loadstring
-- Clean UI
+## 🚀 Features
 
-## Disclaimer
-This script is for learning Lua and Roblox scripting only. Do not use for malicious activity.
+- ✅ Fast and reliable execution
+- ✅ Supports `loadstring`
+- ✅ Clean and minimal UI
 
-## Working
-- Solara
-- Krnl
-- Synapse
-- Xeno
-- Delta
-- Fluxus
-- Hydrogen
-- Electron
-- Trigon
-- Script-Ware
+## ⚠️ Disclaimer
+
+> This script is made for **educational purposes only**.  
+> Do **NOT** use it for malicious activity or to violate Roblox's Terms of Service.
+
+## ✅ Confirmed Working Executors
+
+These executors support `loadstring` and have been tested:
+
+- 🔹 Solara
+- 🔹 KRNL
+- 🔹 Synapse X
+- 🔹 Xeno
+- 🔹 Delta
+- 🔹 Fluxus
+- 🔹 Hydrogen
+- 🔹 Electron
+- 🔹 Trigon
+- 🔹 Script-Ware
+
+---
+
+## 📚 Usage
+
+1. Download or copy the `.lua` file from this repository.
+2. Open your preferred supported executor.
+3. Paste or load the script.
+4. Enjoy the features responsibly.
+
+---
+
+## 📌 Note
+
+If you're learning Lua, consider using **Roblox Studio** to practice scripting in a safe and compliant environment. This project is intended for learning how script UIs and loaders work—not for bypassing protections.
+
+---
+
